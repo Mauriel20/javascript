@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a5f39e98-e600-4077-9bf3-3219de031219.ws-us03.gitpod.io",
+    "address": "https://d0b95f24-3991-499a-a88c-54d0cfebeed5.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -254,7 +254,7 @@
         {
             "slug": "18-Create-a-for-loop",
             "title": "18-Create-a-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Create-a-for-loop",
             "translations": [
                 "es",
@@ -265,7 +265,7 @@
         {
             "slug": "19-While-loop",
             "title": "19-While-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/19-While-loop",
             "translations": [
                 "es",

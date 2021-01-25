@@ -43,6 +43,7 @@ $ npm i breathecode-cli -g
 
 ```sh
 $ npm i jest@24.8.0
+
 $ breathecode run
 ```
 
