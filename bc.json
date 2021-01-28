@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d0b95f24-3991-499a-a88c-54d0cfebeed5.ws-us03.gitpod.io",
+    "address": "https://dcfc2963-387f-4a82-ba50-d14cfd810784.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -155,7 +155,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
@@ -276,7 +276,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
